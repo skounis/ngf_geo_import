@@ -1,0 +1,488 @@
+iso,name,hash
+AT,Burgenland,AT-Burgenland
+AT,Steiermark,AT-Steiermark
+AT,Tirol,AT-Tirol
+AT,Niederösterreich,AT-Niederösterreich
+AT,Vorarlberg,AT-Vorarlberg
+AT,Oberösterreich,AT-Oberösterreich
+AT,Salzburg,AT-Salzburg
+AT,Kärnten,AT-Kärnten
+AT,Salzburg,AT-Salzburg
+AT,Wien,AT-Wien
+BE,HainAT,BE-HainAT
+BE,Limburg,BE-Limburg
+BE,Namur,BE-Namur
+BE,Antwerp,BE-Antwerp
+BE,Brussels,BE-Brussels
+BE,Walloon Brabant,BE-Walloon Brabant
+BE,Liege,BE-Liege
+BE,Flemish Brabant,BE-Flemish Brabant
+BE,East Flanders,BE-East Flanders
+BE,West Flanders,BE-West Flanders
+BE,Luxembourg,BE-Luxembourg
+BG,Grad Sofiya,BG-Grad Sofiya
+BG,Montana,BG-Montana
+BG,Kyustendil,BG-Kyustendil
+BG,Burgas,BG-Burgas
+BG,Varna,BG-Varna
+BG,Ruse,BG-Ruse
+BG,Haskovo,BG-Haskovo
+BG,Stara Zagora,BG-Stara Zagora
+BG,Plovdiv,BG-Plovdiv
+BG,Sofia,BG-Sofia
+BG,Veliko Tarnovo,BG-Veliko Tarnovo
+BG,Vratsa,BG-Vratsa
+BG,Targovishte,BG-Targovishte
+BG,Pleven,BG-Pleven
+BG,Vidin,BG-Vidin
+BG,Pazardzhik,BG-Pazardzhik
+BG,Smolyan,BG-Smolyan
+BG,Yambol,BG-Yambol
+BG,Sliven,BG-Sliven
+BG,Razgrad,BG-Razgrad
+BG,Kardzhali,BG-Kardzhali
+BG,Gabrovo,BG-Gabrovo
+BG,Lovech,BG-Lovech
+BG,Shumen,BG-Shumen
+BG,Dobrich,BG-Dobrich
+BG,Silistra,BG-Silistra
+BG,Pernik,BG-Pernik
+BG,Blagoevgrad,BG-Blagoevgrad
+HR,Karlovacka,HR-Karlovacka
+HR,Licko-Senjska,HR-Licko-Senjska
+HR,Sisacko-Moslavacka,HR-Sisacko-Moslavacka
+HR,Viroviticko-Podravska,HR-Viroviticko-Podravska
+HR,Zagrebacka,HR-Zagrebacka
+HR,Osjecko-Baranjska,HR-Osjecko-Baranjska
+HR,Bjelovarska-Bilogorska,HR-Bjelovarska-Bilogorska
+HR,Varaždinska,HR-Varaždinska
+HR,Grad Zagreb,HR-Grad Zagreb
+HR,Vukovarsko-Srijemska,HR-Vukovarsko-Srijemska
+HR,Šibensko-Kninska,HR-Šibensko-Kninska
+HR,Krapinsko-Zagorska,HR-Krapinsko-Zagorska
+HR,Istarska,HR-Istarska
+HR,Brodsko-Posavska,HR-Brodsko-Posavska
+HR,Brodsko-Posavska,HR-Brodsko-Posavska
+HR,Koprivnicko-Križevacka,HR-Koprivnicko-Križevacka
+HR,Zadarska,HR-Zadarska
+HR,Dubrovacko-Neretvanska,HR-Dubrovacko-Neretvanska
+HR,Medimurska,HR-Medimurska
+HR,Splitsko-Dalmatinska,HR-Splitsko-Dalmatinska
+HR,Primorsko-Goranska,HR-Primorsko-Goranska
+HR,Primorsko-Goranska,HR-Primorsko-Goranska
+HR,Grad Zagreb,HR-Grad Zagreb
+CY,Famagusta,CY-Famagusta
+CY,Paphos,CY-Paphos
+CY,Limassol,CY-Limassol
+CY,Larnaca,CY-Larnaca
+CY,Nicosia,CY-Nicosia
+CZ,Karlovarský,CZ-Karlovarský
+CZ,Liberecký,CZ-Liberecký
+CZ,Královéhradecký,CZ-Královéhradecký
+CZ,Moravskoslezský,CZ-Moravskoslezský
+CZ,Prague,CZ-Prague
+CZ,Jihoceský,CZ-Jihoceský
+CZ,Kraj Vysocina,CZ-Kraj Vysocina
+CZ,Stredoceský,CZ-Stredoceský
+DK,Eysturoyar,DK-Eysturoyar
+DK,Hovedstaden,DK-Hovedstaden
+DK,Nordjylland,DK-Nordjylland
+DK,Syddanmark,DK-Syddanmark
+DK,Sjaælland,DK-Sjaælland
+DK,Midtjylland,DK-Midtjylland
+ES,Harju,ES-Harju
+ES,Lääne,ES-Lääne
+ES,Järva,ES-Järva
+ES,Lääne-Viru,ES-Lääne-Viru
+ES,Hiiu,ES-Hiiu
+ES,Tartu,ES-Tartu
+ES,Võru,ES-Võru
+ES,Ida-Viru,ES-Ida-Viru
+ES,Viljandi,ES-Viljandi
+ES,Jõgeva,ES-Jõgeva
+ES,Saare,ES-Saare
+ES,Valga,ES-Valga
+ES,Rapla,ES-Rapla
+ES,Põlva,ES-Põlva
+ES,Pärnu,ES-Pärnu
+FI,Oulu,FI-Oulu
+FI,Finland Proper,FI-Finland Proper
+FI,Central Finland,FI-Central Finland
+FI,Ostrobothnia,FI-Ostrobothnia
+FI,Tavastia Proper,FI-Tavastia Proper
+FI,Southern Finland,FI-Southern Finland
+FI,Satakunta,FI-Satakunta
+FI,Finström,FI-Finström
+FI,Eastern Uusimaa,FI-Eastern Uusimaa
+FI,Northern Ostrobothnia,FI-Northern Ostrobothnia
+FI,Päijänne Tavastia,FI-Päijänne Tavastia
+FI,South Karelia,FI-South Karelia
+FI,North Karelia,FI-North Karelia
+FI,Eastern Finland,FI-Eastern Finland
+FI,Southern Ostrobothnia,FI-Southern Ostrobothnia
+FI,Central Ostrobothnia,FI-Central Ostrobothnia
+FI,Pirkanmaa,FI-Pirkanmaa
+FI,Southern Savonia,FI-Southern Savonia
+FI,Lapland,FI-Lapland
+FI,Southern Finland,FI-Southern Finland
+FR,French Guiana,FR-French Guiana
+FR,Rhône-Alpes,FR-Rhône-Alpes
+FR,Bourgogne,FR-Bourgogne
+FR,Picardie,FR-Picardie
+FR,Martinique,FR-Martinique
+FR,Pays de la Loire,FR-Pays de la Loire
+FR,Centre,FR-Centre
+FR,Poitou-Charentes,FR-Poitou-Charentes
+FR,HATe-Normandie,FR-HATe-Normandie
+FR,Île-de-France,FR-Île-de-France
+FR,Limousin,FR-Limousin
+FR,Nord-Pas-de-Calais,FR-Nord-Pas-de-Calais
+FR,Franche-Comté,FR-Franche-Comté
+FR,Alsace,FR-Alsace
+FR,Basse-Normandie,FR-Basse-Normandie
+FR,Corse,FR-Corse
+FR,Midi-Pyrénées,FR-Midi-Pyrénées
+FR,Provence-Alpes-Côte-d'Azur,FR-Provence-Alpes-Côte-d'Azur
+FR,Languedoc-Roussillon,FR-Languedoc-Roussillon
+FR,Auvergne,FR-Auvergne
+FR,Champagne-Ardenne,FR-Champagne-Ardenne
+FR,Bretagne,FR-Bretagne
+FR,Aquitaine,FR-Aquitaine
+FR,Lorraine,FR-Lorraine
+DE,Saarland,DE-Saarland
+DE,Bayern,DE-Bayern
+DE,Thüringen,DE-Thüringen
+DE,Nordrhein-Westfalen,DE-Nordrhein-Westfalen
+DE,Schleswig-Holstein,DE-Schleswig-Holstein
+DE,Sachsen,DE-Sachsen
+DE,Hessen,DE-Hessen
+DE,Bremen,DE-Bremen
+DE,Hamburg,DE-Hamburg
+DE,Berlin,DE-Berlin
+DE,Niedersachsen,DE-Niedersachsen
+DE,Rheinland-Pfalz,DE-Rheinland-Pfalz
+DE,Sachsen-Anhalt,DE-Sachsen-Anhalt
+DE,Baden-Württemberg,DE-Baden-Württemberg
+DE,Brandenburg,DE-Brandenburg
+DE,Mecklenburg-Vorpommern,DE-Mecklenburg-Vorpommern
+GR,Ionioi Nisoi,GR-Ionioi Nisoi
+GR,Kriti,GR-Kriti
+GR,Thessalia,GR-Thessalia
+GR,Kentriki Makedonia,GR-Kentriki Makedonia
+GR,Anatoliki Makedonia kai Thraki,GR-Anatoliki Makedonia kai Thraki
+GR,Attiki,GR-Attiki
+GR,Peloponnisos,GR-Peloponnisos
+GR,Dytiki Ellada,GR-Dytiki Ellada
+GR,Dytiki Makedonia,GR-Dytiki Makedonia
+GR,Ipeiros,GR-Ipeiros
+GR,Voreio Aigaio,GR-Voreio Aigaio
+GR,Stereá Elláda,GR-Stereá Elláda
+GR,Ayion Oros,GR-Ayion Oros
+GR,Notio Aigaio,GR-Notio Aigaio
+HU,Fejér,HU-Fejér
+HU,Gyor-Moson-Sopron,HU-Gyor-Moson-Sopron
+HU,Somogy,HU-Somogy
+HU,Budapest,HU-Budapest
+HU,Szabolcs-Szatmár-Bereg,HU-Szabolcs-Szatmár-Bereg
+HU,Csongrád,HU-Csongrád
+HU,Heves,HU-Heves
+HU,Vas,HU-Vas
+HU,Borsod-Abaúj-Zemplén,HU-Borsod-Abaúj-Zemplén
+HU,Hajdú-Bihar,HU-Hajdú-Bihar
+HU,Zala,HU-Zala
+HU,Komárom-Esztergom,HU-Komárom-Esztergom
+HU,Jász-Nagykun-Szolnok,HU-Jász-Nagykun-Szolnok
+HU,Tolna,HU-Tolna
+HU,Békés,HU-Békés
+HU,Baranya,HU-Baranya
+HU,Bács-Kiskun,HU-Bács-Kiskun
+HU,Nógrád,HU-Nógrád
+HU,Veszprém,HU-Veszprém
+HU,Pest,HU-Pest
+IE,Cavan,IE-Cavan
+IE,Louth,IE-Louth
+IE,Offaly,IE-Offaly
+IE,Leitrim,IE-Leitrim
+IE,Clare,IE-Clare
+IE,Dublin,IE-Dublin
+IE,Kildare,IE-Kildare
+IE,Limerick,IE-Limerick
+IE,Longford,IE-Longford
+IE,Carlow,IE-Carlow
+IE,Cork,IE-Cork
+IE,Galway,IE-Galway
+IE,Meath,IE-Meath
+IE,Laoighis,IE-Laoighis
+IE,Roscommon,IE-Roscommon
+IE,Mayo,IE-Mayo
+IE,Westmeath,IE-Westmeath
+IE,Wicklow,IE-Wicklow
+IE,Kerry,IE-Kerry
+IE,Tipperary,IE-Tipperary
+IE,Wexford,IE-Wexford
+IE,Kilkenny,IE-Kilkenny
+IE,Sligo,IE-Sligo
+IE,Donegal,IE-Donegal
+IE,Waterford,IE-Waterford
+IE,Monaghan,IE-Monaghan
+IT,Campania,IT-Campania
+IT,Apulia,IT-Apulia
+IT,Piemonte,IT-Piemonte
+IT,Valle d'Aosta,IT-Valle d'Aosta
+IT,Liguria,IT-Liguria
+IT,Marche,IT-Marche
+IT,Emilia-Romagna,IT-Emilia-Romagna
+IT,Sicily,IT-Sicily
+IT,Lazio,IT-Lazio
+IT,Toscana,IT-Toscana
+IT,Abruzzo,IT-Abruzzo
+IT,Umbria,IT-Umbria
+IT,Lombardia,IT-Lombardia
+IT,Sardegna,IT-Sardegna
+IT,Basilicata,IT-Basilicata
+IT,Calabria,IT-Calabria
+IT,Molise,IT-Molise
+IT,Trentino-Alto Adige,IT-Trentino-Alto Adige
+IT,Veneto,IT-Veneto
+IT,Friuli-Venezia Giulia,IT-Friuli-Venezia Giulia
+LV,Liepaja,LV-Liepaja
+LV,Latgale,LV-Latgale
+LV,Aluksne,LV-Aluksne
+LV,Zemgale,LV-Zemgale
+LV,Vidzeme,LV-Vidzeme
+LV,Jekabpils,LV-Jekabpils
+LV,Madona,LV-Madona
+LV,Kraslava,LV-Kraslava
+LV,Ludza,LV-Ludza
+LV,Bauska,LV-Bauska
+LV,Limbaži,LV-Limbaži
+LV,Ogre,LV-Ogre
+LV,Riga,LV-Riga
+LV,Kurzeme,LV-Kurzeme
+LV,Saldus,LV-Saldus
+LV,Talsi,LV-Talsi
+LV,Daugavpils,LV-Daugavpils
+LV,Jelgava,LV-Jelgava
+LV,Riga,LV-Riga
+LV,Valmiera,LV-Valmiera
+LV,Dobele,LV-Dobele
+LV,Gulbene,LV-Gulbene
+LV,Ventspils,LV-Ventspils
+LV,Balvi,LV-Balvi
+LV,Valga,LV-Valga
+LV,Preili,LV-Preili
+LV,Tukums,LV-Tukums
+LU,Luxembourg,LU-Luxembourg
+LU,Grevenmacher,LU-Grevenmacher
+LU,Diekirch,LU-Diekirch
+NL,Drenthe,NL-Drenthe
+NL,Friesland,NL-Friesland
+NL,Zeeland,NL-Zeeland
+NL,Gelderland,NL-Gelderland
+NL,Groningen,NL-Groningen
+NL,Overijssel,NL-Overijssel
+NL,Limburg,NL-Limburg
+NL,Flevoland,NL-Flevoland
+NL,Noord-Holland,NL-Noord-Holland
+NL,Noord-Brabant,NL-Noord-Brabant
+NL,Utrecht,NL-Utrecht
+NL,Zuid-Holland,NL-Zuid-Holland
+PL,Opole,PL-Opole
+PL,Lesser Poland,PL-Lesser Poland
+PL,Warmian-Masurian,PL-Warmian-Masurian
+PL,Masovian,PL-Masovian
+PL,Swietokrzyskie,PL-Swietokrzyskie
+PL,Podlachian,PL-Podlachian
+PL,Lódz,PL-Lódz
+PL,Lubusz,PL-Lubusz
+PL,West Pomeranian,PL-West Pomeranian
+PL,Greater Poland,PL-Greater Poland
+PL,Kuyavian-Pomeranian,PL-Kuyavian-Pomeranian
+PL,Lublin,PL-Lublin
+PL,Subcarpathian,PL-Subcarpathian
+PL,Pomeranian,PL-Pomeranian
+PL,Lower Silesian,PL-Lower Silesian
+PL,Silesian,PL-Silesian
+PT,Beja,PT-Beja
+PT,Faro,PT-Faro
+PT,Bragança,PT-Bragança
+PT,Coimbra,PT-Coimbra
+PT,Guarda,PT-Guarda
+PT,Viseu,PT-Viseu
+PT,Santarém,PT-Santarém
+PT,Leiria,PT-Leiria
+PT,Lisboa,PT-Lisboa
+PT,Portalegre,PT-Portalegre
+PT,Aveiro,PT-Aveiro
+PT,Azores,PT-Azores
+PT,Braga,PT-Braga
+PT,Porto,PT-Porto
+PT,Madeira,PT-Madeira
+PT,Viana do Castelo,PT-Viana do Castelo
+PT,Évora,PT-Évora
+PT,Castelo Branco,PT-Castelo Branco
+PT,Vila Real,PT-Vila Real
+RO,Dolj,RO-Dolj
+RO,Bihor,RO-Bihor
+RO,Alba,RO-Alba
+RO,Hunedoara,RO-Hunedoara
+RO,Arges,RO-Arges
+RO,Bacau,RO-Bacau
+RO,Dâmbovita,RO-Dâmbovita
+RO,Cluj,RO-Cluj
+RO,Salaj,RO-Salaj
+RO,Satu Mare,RO-Satu Mare
+RO,Covasna,RO-Covasna
+RO,Mehedinti,RO-Mehedinti
+RO,Teleorman,RO-Teleorman
+RO,Vâlcea,RO-Vâlcea
+RO,Neamt,RO-Neamt
+RO,Braila,RO-Braila
+RO,Galati,RO-Galati
+RO,Giurgiu,RO-Giurgiu
+RO,Sibiu,RO-Sibiu
+RO,Vaslui,RO-Vaslui
+RO,Vrancea,RO-Vrancea
+RO,Maramures,RO-Maramures
+RO,Olt,RO-Olt
+RO,Ialomita,RO-Ialomita
+RO,Constanta,RO-Constanta
+RO,Mures,RO-Mures
+RO,Iasi,RO-Iasi
+RO,Prahova,RO-Prahova
+RO,Gorj,RO-Gorj
+RO,Caras-Severin,RO-Caras-Severin
+RO,Timis,RO-Timis
+RO,Bistrita-Nasaud,RO-Bistrita-Nasaud
+RO,Brasov,RO-Brasov
+RO,Suceava,RO-Suceava
+RO,Bucharest,RO-Bucharest
+RO,Calarasi,RO-Calarasi
+RO,Arad,RO-Arad
+RO,Botosani,RO-Botosani
+RO,Harghita,RO-Harghita
+RO,Buzau,RO-Buzau
+SK,Bratislavský,SK-Bratislavský
+SK,Banskobystrický,SK-Banskobystrický
+SK,Trenciansky,SK-Trenciansky
+SK,KoŠický,SK-KoŠický
+SK,Trnavský,SK-Trnavský
+SK,Žilinský,SK-Žilinský
+SK,Nitriansky,SK-Nitriansky
+SK,PreŠov,SK-PreŠov
+ES,Castilla-La Mancha,ES-Castilla-La Mancha
+ES,Canillo,ES-Canillo
+ES,Cantabria,ES-Cantabria
+ES,Castilla y León,ES-Castilla y León
+ES,Ceuta,ES-Ceuta
+ES,La Rioja,ES-La Rioja
+ES,Andalucía,ES-Andalucía
+ES,Comunidad de Madrid,ES-Comunidad de Madrid
+ES,Cataluña,ES-Cataluña
+ES,Principado de Asturias,ES-Principado de Asturias
+ES,Extremadura,ES-Extremadura
+ES,Melilla,ES-Melilla
+ES,Región de Murcia,ES-Región de Murcia
+ES,País Vasco,ES-País Vasco
+ES,Galicia,ES-Galicia
+ES,Islas Baleares,ES-Islas Baleares
+ES,Comunidad Foral de Navarra,ES-Comunidad Foral de Navarra
+ES,Comunidad Valenciana,ES-Comunidad Valenciana
+ES,Aragón,ES-Aragón
+SE,Gävleborg,SE-Gävleborg
+SE,Västernorrland,SE-Västernorrland
+SE,Östergötland,SE-Östergötland
+SE,Norrbotten,SE-Norrbotten
+SE,Kronoberg,SE-Kronoberg
+SE,Västmanland,SE-Västmanland
+SE,Halland,SE-Halland
+SE,Jämtland,SE-Jämtland
+SE,Uppsala,SE-Uppsala
+SE,Blekinge,SE-Blekinge
+SE,Stockholm,SE-Stockholm
+SE,Södermanland,SE-Södermanland
+SE,Värmland,SE-Värmland
+SE,Jönköping,SE-Jönköping
+SE,Västerbotten,SE-Västerbotten
+SE,Orebro,SE-Orebro
+SE,Kalmar,SE-Kalmar
+SE,Dalarna,SE-Dalarna
+SE,Gotland,SE-Gotland
+SE,Västra Götaland,SE-Västra Götaland
+SE,Skåne,SE-Skåne
+SI,Gorenjska,SI-Gorenjska
+SI,Goriška,SI-Goriška
+SI,Jugovzhodna Slovenija,SI-Jugovzhodna Slovenija
+SI,Koroška,SI-Koroška
+SI,Obalno-kraška,SI-Obalno-kraška
+SI,Osrednjeslovenska,SI-Osrednjeslovenska
+SI,Podravska,SI-Podravska
+SI,Pomurska,SI-Pomurska
+SI,Primorsko-notranjska,SI-Primorsko-notranjska
+SI,Savinjska,SI-Savinjska
+SI,Spodnjeposavska,SI-Spodnjeposavska
+SI,Zasavska,SI-Zasavska
+UK,Antrim,UK-Antrim
+UK,Armagh,UK-Armagh
+UK,Bedfordshire,UK-Bedfordshire
+UK,Belfast City,UK-Belfast City
+UK,Berkshire,UK-Berkshire
+UK,Bristol,UK-Bristol
+UK,Buckinghamshire,UK-Buckinghamshire
+UK,Cambridgeshire,UK-Cambridgeshire
+UK,Cheshire,UK-Cheshire
+UK,City of London,UK-City of London
+UK,Clwyd,UK-Clwyd
+UK,Cornwall,UK-Cornwall
+UK,Cumbria,UK-Cumbria
+UK,Derbyshire,UK-Derbyshire
+UK,Devon,UK-Devon
+UK,Dorset,UK-Dorset
+UK,Down,UK-Down
+UK,Durham,UK-Durham
+UK,Dyfed,UK-Dyfed
+UK,East Riding of Yorkshire,UK-East Riding of Yorkshire
+UK,East Sussex,UK-East Sussex
+UK,Essex,UK-Essex
+UK,Fermanagh,UK-Fermanagh
+UK,Gloucestershire,UK-Gloucestershire
+UK,Greater London,UK-Greater London
+UK,Greater Manchester,UK-Greater Manchester
+UK,Gwent,UK-Gwent
+UK,Gwynedd,UK-Gwynedd
+UK,Hampshire,UK-Hampshire
+UK,Herefordshire,UK-Herefordshire
+UK,Hertfordshire,UK-Hertfordshire
+UK,Isle of Wight,UK-Isle of Wight
+UK,Kent,UK-Kent
+UK,Lancashire,UK-Lancashire
+UK,Leicestershire,UK-Leicestershire
+UK,Lincolnshire,UK-Lincolnshire
+UK,Londonderry,UK-Londonderry
+UK,Londonderry City,UK-Londonderry City
+UK,Merseyside,UK-Merseyside
+UK,Mid Glamorgan,UK-Mid Glamorgan
+UK,Norfolk,UK-Norfolk
+UK,North Yorkshire,UK-North Yorkshire
+UK,Northamptonshire,UK-Northamptonshire
+UK,Northumberland,UK-Northumberland
+UK,Nottinghamshire,UK-Nottinghamshire
+UK,Oxfordshire,UK-Oxfordshire
+UK,Powys,UK-Powys
+UK,Rutland,UK-Rutland
+UK,Shropshire,UK-Shropshire
+UK,Somerset,UK-Somerset
+UK,South Glamorgan,UK-South Glamorgan
+UK,South Yorkshire,UK-South Yorkshire
+UK,Staffordshire,UK-Staffordshire
+UK,Suffolk,UK-Suffolk
+UK,Surrey,UK-Surrey
+UK,Tyne and Wear,UK-Tyne and Wear
+UK,Tyrone,UK-Tyrone
+UK,Warwickshire,UK-Warwickshire
+UK,West Glamorgan,UK-West Glamorgan
+UK,West Midlands,UK-West Midlands
+UK,West Sussex,UK-West Sussex
+UK,West Yorkshire,UK-West Yorkshire
+UK,Wiltshire,UK-Wiltshire
+UK,Worcestershire,UK-Worcestershire
